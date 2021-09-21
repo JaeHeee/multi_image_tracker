@@ -1,5 +1,9 @@
 # Multi Image Tracker 
 
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/40454769/134151610-ce9fc423-303d-4e6d-97c0-c82b16c07089.gif" width="40%">
+</p>
+
 
 <p>A flutter package which makes it easy to track a series of images.</p>
 <br>
