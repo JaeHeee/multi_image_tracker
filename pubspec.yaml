@@ -1,7 +1,7 @@
 name: multi_image_tracker
 description: A flutter package which makes it easy to track a series of images.
 version: 1.0.0
-homepage:
+homepage: https://github.com/JaeHeee/multi_image_tracker
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

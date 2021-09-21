@@ -12,6 +12,7 @@
 # Installation
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
+[![Version](https://img.shields.io/badge/pub-v1.0.0-blue)]()
 
 ```yaml
 dependencies:
